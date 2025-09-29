@@ -1,0 +1,1 @@
+Bu kodların amacı borsada çok fazla sayıdaki hisselerin destek direnç noktasını takip edebilmek ve verilerle indikatörlerden al ya da sat sinyali oluşturan hisseleri hızlıca tespit edebilmektir.
