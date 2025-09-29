@@ -1,0 +1,4 @@
+dataclasses
+SQLAlchemy
+pyodbc
+python-dotenv
