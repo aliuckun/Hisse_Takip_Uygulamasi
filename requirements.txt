@@ -2,3 +2,11 @@ dataclasses
 SQLAlchemy
 pyodbc
 python-dotenv
+yfinance
+pandas
+numpy
+ta
+tradingview_ta
+pyodbc
+sys
+os
