@@ -10,3 +10,5 @@ tradingview_ta
 pyodbc
 sys
 os
+time
+datetime

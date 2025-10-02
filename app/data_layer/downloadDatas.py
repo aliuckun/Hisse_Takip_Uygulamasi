@@ -1,7 +1,7 @@
 from .models import Stock, Indicators
 from tradingview_ta import TA_Handler, Interval
 
-def get_stock_data(symbol: str, interval=Interval.INTERVAL_1_DAY):
+def get_stock_data(symbol: str, interval=Interval.INTERVAL_4_HOURS):
     # TradingView'den verileri çek
     handler = TA_Handler(
         symbol=symbol,
