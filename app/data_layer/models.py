@@ -16,6 +16,7 @@ class Indicators:
     rsiPrevious: float
     stockK: float
     stockD: float
+    adx: float
     macd: float
     macdSignal: float
     bbLower: float
